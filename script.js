@@ -1,0 +1,1 @@
+console.log('AgriMarket website loaded');
